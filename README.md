@@ -1,7 +1,7 @@
 # Projeto Pratico Final
 
 ## Setup
-Para a realizacao do projeto foi ultilizado arquivo SQLite (table.db) gerado a partir dos arquvios .csv fornecidos.
+Para a realizacao do projeto foi ultilizado arquivo SQLite (table.db) gerado a partir dos arquvos .csv fornecidos.
 [Clique aqui para acessar](https://drive.google.com/file/d/1x_AlK_XMeirkPSElUkyq_sX_x4fPdW5f/view?usp=sharing)
 
 ### Observacao:
